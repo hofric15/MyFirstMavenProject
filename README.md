@@ -1,1 +1,1 @@
-# MyFirstMavenProject
+# FirstMavenProject
